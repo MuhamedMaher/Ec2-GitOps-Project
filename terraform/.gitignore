@@ -1,3 +1,4 @@
 .terraform/
 *.tfstate
-Ec2*
+Ec2_Key
+Ec2_Key.pub
